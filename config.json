@@ -1,0 +1,31 @@
+{
+  "jaminan_valid": {
+    "JKN-PBI": {"nama": "JKN KIS PBI - Dibayar Pemerintah", "butuh_sep": true, "butuh_rujukan": true, "butuh_kartu": true},
+    "JKN-MANDIRI": {"nama": "JKN Mandiri / PBPU - Bayar Sendiri", "butuh_sep": true, "butuh_rujukan": true, "butuh_kartu": true},
+    "JKN-PPU": {"nama": "JKN PPU - Pekerja Penerima Upah", "butuh_sep": true, "butuh_rujukan": true, "butuh_kartu": true},
+    "JKN-BP": {"nama": "JKN Bukan Pekerja / Pensiunan", "butuh_sep": true, "butuh_rujukan": true, "butuh_kartu": true},
+    "JKN-BBL": {"nama": "JKN Bayi Baru Lahir", "butuh_sep": true, "butuh_rujukan": false, "butuh_kartu": false},
+    "JAMKESDA": {"nama": "Jamkesda - Jaminan Daerah APBD", "butuh_sep": false, "butuh_rujukan": true, "butuh_kartu": true},
+    "JAMPERSAL": {"nama": "Jampersal - Jaminan Persalinan", "butuh_sep": false, "butuh_rujukan": true, "butuh_kartu": false},
+    "JKK": {"nama": "BPJS Ketenagakerjaan - Jaminan Kecelakaan Kerja", "butuh_sep": false, "butuh_rujukan": false, "butuh_kartu": true},
+    "SWASTA": {"nama": "Asuransi Swasta", "butuh_sep": false, "butuh_rujukan": false, "butuh_kartu": true},
+    "UMUM": {"nama": "Umum / Bayar Sendiri", "butuh_sep": false, "butuh_rujukan": false, "butuh_kartu": false}
+  },
+  "faskes_valid": ["1", "2", "3"],
+  "kode_poli": {
+    "anak": "ANA",
+    "umum": "UMU",
+    "gigi": "GIG",
+    "kandungan": "OBG",
+    "bedah": "BED",
+    "dalam": "PDL",
+    "mata": "MAT",
+    "tht": "THT",
+    "kulit": "KLT",
+    "saraf": "SAR",
+    "jantung": "JAN",
+    "paru": "PAR",
+    "orthopedi": "ORT",
+    "urologi": "URO"
+  }
+}
