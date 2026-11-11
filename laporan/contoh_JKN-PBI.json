@@ -1,0 +1,18 @@
+{
+  "tanggal_cek": "11 November 2026 10:00",
+  "tanggal_layanan": "2026-11-11",
+  "nik_anonim": "NIK-XXXXXXX",
+  "no_kartu_anonim": "KARTU-XXXXXX",
+  "kode_jaminan": "JKN-PBI",
+  "nama_jaminan": "JKN KIS PBI - Dibayar Pemerintah",
+  "kode_poli_input": "anak",
+  "kode_poli_vclaim": "ANA",
+  "no_rujukan_ada": true,
+  "dokumen_wajib": ["kartu_jaminan", "rujukan", "sep"],
+  "masalah": [],
+  "saran": [],
+  "status": "ELIGIBLE - BISA DILAYANI",
+  "skor_eligibilitas": 100,
+  "pesan_bpjs": "Lanjut buat SEP / VClaim di sistem BPJS resmi",
+  "disclaimer": "Simulasi bridging & validasi administrasi. BUKAN bridging resmi BPJS. Keputusan akhir di BPJS Kesehatan."
+}
